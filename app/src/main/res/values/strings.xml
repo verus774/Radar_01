@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Radar</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_radars_list">RadarsListActivity</string>
+    
+    <string name="btn_parse">Обновить</string>
+    <string name="action_settings">Выбрать радар</string>
+    <string name="err_download_data">Не удалось загрузить данные</string>
+
+</resources>
